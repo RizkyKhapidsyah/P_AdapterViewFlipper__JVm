@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P_AdapterViewFlipper__JVm</string>
+    <string name="TV_ViewFlipper_IDXML">Gambar-Gambar Ikon</string>
+    <string name="TV_Names_IDXML">Puzzle</string>
+    <string name="B_Mulai_IDXML">Mulai</string>
+    <string name="B_Berhenti_IDXML">Berhenti</string>
+    <string name="TV_SetInterval_IDXML">Set Interval (400-5000) :</string>
+    <string name="ET_SetInterval_IDXML">Masukkan Nilai..</string>
+
+</resources>
